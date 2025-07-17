@@ -1,5 +1,7 @@
- Uber Sales Analysis is a PowerBI dashboard that provides insights into sales data. It includes features such as data visualization, trend analysis, and performance metrics. The dashboard allows users to interactively explore sales data, identify patterns, and make informed business decisions based on the analysis. The project showcases the use of PowerBI for data analytics and visualization in a business context.       
-            DAHBOARD 1: OVERVIEW ANALYSIS
+Uber Sales Analysis is a PowerBI dashboard that provides insights into sales data. It includes features such as data visualization, trend analysis, and performance metrics. The dashboard allows users to interactively explore sales data, identify patterns, and make informed business decisions based on the analysis. The project showcases the use of PowerBI for data analytics and visualization in a business context. 
+
+
+DAHBOARD 1: OVERVIEW ANALYSIS
 Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 KPI’s
 1.	Total Bookings – How many trips were booked over a given period?
